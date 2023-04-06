@@ -2,11 +2,13 @@
 
 ##  Скачать Приложение | Download App 📖
 ### **HTTPS**
-_**git clone:**_ _https://github.com/A-Asror/RrosaDjangoRestAPI.git_
+_**git clone:**_ _https://github.com/A-Asror/UpTraderTest.git_
 
 ### **SSH**
-_**git clone:**_ _git@github.com:A-Asror/RrosaDjangoRestAPI.git_
+_**git clone:**_ _git@github.com:A-Asror/UpTraderTest.git_
 
+##  Настройка проекта | Set up the project 🔨
+### **Create folders in the root of the app: assets, static, logs**
 ### **Update .env file**
 ```shell
 Linux
