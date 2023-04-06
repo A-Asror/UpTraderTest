@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Пример страницы Меню</title>
+</head>
+<body>
+    {% for item in items %}
+        <a href="{% url 'menu' item.slug %}">
+            <button>{{ item.slug }}</button>
+        </a>
+    {% endfor %}
+</body>
+</html>
